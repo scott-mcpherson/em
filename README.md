@@ -1,3 +1,5 @@
+To see the most current and original repo, please visit https://github.com/EventedMind/em 
+
 # em
 
 A command line scaffolding tool for Meteor applications. It automatically
